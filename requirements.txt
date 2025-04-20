@@ -2,3 +2,4 @@ asyncpg
 aiogram
 APScheduler
 python-decouple
+psycopg2
